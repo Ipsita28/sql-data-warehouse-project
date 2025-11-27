@@ -35,4 +35,4 @@ Develop a modern data warehouse using SQL server to consolidate sales data, enab
   These insights empower stakeholders with key business metrics, enabling strategic decision making.
 
  # ⭐ About Me  
-  Hi there! My name is **Ipsita**. I am an IT professional with **over 7 years experience of Performance testing banking applications**. Currently, **I freelance on data related projects**, where I work on data analysis, automation, and other data-centric tasks..
+  Hi there! My name is **Ipsita**. I am an IT professional with **over 7 years experience of Performance testing banking applications**. Currently, **I freelance on data related projects**, where I work on data analysis, automation, and other data-centric tasks.
